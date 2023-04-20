@@ -5,3 +5,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/111417870][486_python finally的使用]]
 - [[https://greyzhang.blog.csdn.net/article/details/111514532][487_python中布尔条件判断使用注意项小结]]
 - [[https://greyzhang.blog.csdn.net/article/details/122207655][948_python中清空字典的两种方法极其差异]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130276381][1684_Python核心编程学习小结 22-17]]
