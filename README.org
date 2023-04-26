@@ -8,3 +8,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/130276381][1684_Python核心编程学习小结 22-17]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130296405][1685_Excel的几种脚本处理方式]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130377747][1690_Python中的复数数据类型]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130393072][1691_python学习笔记之week3_递归]]
