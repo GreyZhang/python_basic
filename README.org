@@ -11,3 +11,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/130393072][1691_python学习笔记之week3_递归]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130436063][1693_Python处理Excel学习小结 21-41]]
 - [[https://greyzhang.blog.csdn.net/article/details/130436079][1694_week1_MIT使用Python编程学习手记1]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130446864][1695_week2_算法与函数（MIT使用Python编程学习手记）]]
