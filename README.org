@@ -14,3 +14,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/130446864][1695_week2_算法与函数（MIT使用Python编程学习手记）]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130460899][1697_python编程_assertions and exceptions]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130471365][1698_python编程_测试与debug]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130518693][1701_week5_效率与搜索]]
