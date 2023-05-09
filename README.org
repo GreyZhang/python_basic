@@ -16,3 +16,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/130471365][1698_python编程_测试与debug]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130518693][1701_week5_效率与搜索]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130542194][1702_week6_面向对象编程]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130592588][1705_Python处理中文经验与实践]]
