@@ -1,5 +1,5 @@
 * Little bits of python programming.
-** 综述 
+** 综述
 - 近几年python在互联网以及IT领域大火，而我自己的技能库里面算是小火。我本来掌握的编码技能就比较肤浅，最初我掌握了比较肤浅的Perl且给我带来了很多自动化方面的便捷。而后来，为了所谓的“优雅风格”又学习了python。而这些年很多简单的小处理的确是python用的多了一些了。不过，我终究还不算是这方面的专业人士，很多简单的知识点甚至都是缺乏的。在此做一个梳理，创建一份我自己的学习笔记大纲以作积累成长的汇总。
 ** 学习笔记
 - [[https://greyzhang.blog.csdn.net/article/details/111417870][486_python finally的使用]]
@@ -20,3 +20,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/130613457][1706_Python中带余数除法]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130634140][1707_Python中的多成员处理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130940287][1726_使用Python从dbc文件中提取simulink建模数据定义]]
+- [[https://blog.csdn.net/grey_csdn/article/details/131180503][1740_使用Python+ImageMagick实现图像的批量压缩]]
